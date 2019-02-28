@@ -179,7 +179,7 @@ Wszystko to tłumaczy, dlaczego lokomotywy światowej motoryzacji tak twardo trz
 
 Dlatego np. Europa jest mekką diesli, a Japonia – kei-carów, czyli mikrosamochodów. W pierwszym przypadku wystarczyło powiązać podatki z emisją CO2 (co uczyniło 18 z 27 unijnych państw), w drugim – wprowadzić prawny wymóg posiadania własnego miejsca parkingowego (kei-cary nie są nim objęte).
 
-Podatki i prawo są orężem regulatorów. Gdyby nie kalifornijski regulacje, a ściślej program Zero Emission Vehicle mający wspierać producentów elektrycznych aut, najpewniej w ogóle nie było by Tesli - ZEV to jeden z fundamentów jej sukcesu.
+Podatki i prawo są orężem regulatorów. Gdyby nie kalifornijskie regulacje, a ściślej program Zero Emission Vehicle mający wspierać producentów elektrycznych aut, najpewniej w ogóle nie było by Tesli - ZEV to jeden z fundamentów jej sukcesu.
 
 Jaki jest klimat wokół firmy z Fremont? Korzystny, aczkolwiek nie bez "ale". 10 amerykańskich stanów wprowadziło ZEV-y, 13 – kalifornijskie normy emisji, bardziej surowe od federalnych. Do tego roku nabywcy Tesli mogli je kupować o 7500 dol. taniej. Ale że firma sprzedała w Stanach ponad 200 tys. aut, ulga stopniała o połowę i do przyszłego roku całkiem wygaśnie. By podtrzymać popyt, Tesla obniżyła cenę o 2000 dol. co – rzecz jasna - odbije się na przychodach.
 
@@ -208,7 +208,7 @@ Po raz pierwszy w historii Chiny pozwoliły zagranicznemu producentowi na dział
 
 ## Najgroźniejsi rywale Tesli
 
-Chyba że… splajtuje. No właśnie, wracamy do podstawowego pytania: czy Tesla przetrwa najbliższe pięć lat? Są miliony osób, które w to wierzą, ale żadnej, która to wie. Łącznie z Muskiem. Bo? Za dużo zmiennych. Na przykład? Na przykład? Choć to nie on ją założył, Tesla ma jego twarz i jest firmą jednego człowieka. Jeśli go straci – bo Elon np. oszaleje lub zginie – to przestanie się liczyć.
+Chyba że… splajtuje. No właśnie, wracamy do podstawowego pytania: czy Tesla przetrwa najbliższe pięć lat? Są miliony osób, które w to wierzą, ale żadnej, która to wie. Łącznie z Muskiem. Bo? Za dużo zmiennych. Na przykład? Choć to nie on ją założył, Tesla ma jego twarz i jest firmą jednego człowieka. Jeśli go straci – bo Elon np. oszaleje lub zginie – to przestanie się liczyć.
 
 A pomijając tak skrajne scenariusze?
 
@@ -238,7 +238,7 @@ Gdyby zapowiedział coś takiego 2-3 lata temu, najpewniej już byłoby po Tesli
 
 Pytanie, czy zdąży. Coraz więcej analityków uważa, że elektryczna zmiana warty dokona się dużo szybciej niż do niedawna sądzono. Już za 5-7 lat w statystykach sprzedaży auta elektryczne mogą przebić spalinowe, na które popyt będzie szybko spadał.
 
-Jak to możliwe, skoro dziś proporcje wynoszą 1:90? Okazuje się, że już teraz szybko przybywa tych, którzy wstrzymują się z wymiana auta, bo czekają na elektryczne. Do ludzi dociera, że nowy rodzaj napędu to nie fantasmagoria, lecz przyszłość.
+Jak to możliwe, skoro dziś proporcje wynoszą 1:90? Okazuje się, że już teraz szybko przybywa tych, którzy wstrzymują się z wymianą auta, bo czekają na elektryczne. Do ludzi dociera, że nowy rodzaj napędu to nie fantasmagoria, lecz przyszłość.
 
 Początkowa nieufność u wielu przeszła w ciekawość, a ta w akceptację. Tak jest zawsze, gdy chodzi o przełomowe technologie, jak wymiana kaset VHS na DVD, telewizorów CRT na LCD, czy komórek na smartfony. Globalizacja sprawia, że okres przejścia skrócił się do mniej niż dekady. I nie inaczej będzie z samochodami.
 
