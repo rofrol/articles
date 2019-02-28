@@ -1,3 +1,5 @@
 - https://www.wykop.pl/link/4813987/tak-wygladaja-oficjalne-standardy-edukacji-seksualnej-wedlug-who/
 - Oryginalny tekst ze strony WHO na potwierdzenie. https://www.bzga-whocc.de/fileadmin/user_upload/Dokumente/WHO_BzgA_Standards_polnisch.pdf
 - https://www.facebook.com/AnnaMariaSiarkowska/photos/a.558509114300618/1222713597880163
+- [ZdrovveLove – zdrowie prokreacyjne](https://www.gdansk.pl/download/2018-09/114906.pdf)
+  - https://www.wykop.pl/link/4820419/program-edukacji-seksualnej-dla-dzieci-w-gdansku/
