@@ -1,0 +1,3 @@
+- https://www.wykop.pl/link/4813987/tak-wygladaja-oficjalne-standardy-edukacji-seksualnej-wedlug-who/
+- Oryginalny tekst ze strony WHO na potwierdzenie. https://www.bzga-whocc.de/fileadmin/user_upload/Dokumente/WHO_BzgA_Standards_polnisch.pdf
+- https://www.facebook.com/AnnaMariaSiarkowska/photos/a.558509114300618/1222713597880163
