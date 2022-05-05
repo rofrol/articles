@@ -4,7 +4,7 @@ Brak seksu w związku oczami mężczyzny [Listy do Onetu]
 
 2019-01-15T12:55:00+01:00
 
-Mój przypadek jest chyba banalny – dwa lata z dziewczyną, wspólne zamieszkanie, dziecko. Problemy z seksem zaczęły się w ciąży. "Jest mi niedobrze", "trzeba uważać na dziecko" - słyszałem. Seksu było mało, ale rozumiałem ten szczególny okres i nie ponaglałem. Po porodzie pojawiły się nowe obowiązki,brak czasu, zmęczenie. Moje miejsce zajęło dziecko, a ja zostałem w związku tym trzecim. Partnerka zaczęła wydawać komendy: "wyrzuć pieluszki", "kup mleko", "trzeba powiesić półkę"...
+Mój przypadek jest chyba banalny – dwa lata z dziewczyną, wspólne zamieszkanie, dziecko. Problemy z seksem zaczęły się w ciąży. "Jest mi niedobrze", "trzeba uważać na dziecko" - słyszałem. Seksu było mało, ale rozumiałem ten szczególny okres i nie ponaglałem. Po porodzie pojawiły się nowe obowiązki, brak czasu, zmęczenie. Moje miejsce zajęło dziecko, a ja zostałem w związku tym trzecim. Partnerka zaczęła wydawać komendy: "wyrzuć pieluszki", "kup mleko", "trzeba powiesić półkę"...
 
 Po pół roku dziecko poszło do żłobka, a partnerka wróciła do pracy. Pomagałem przy dziecku, pomagałem w domu. Seksu było mało. Jakoś też nie odczuwałem, by ona była tak szczerze nim zainteresowana.
 
@@ -22,9 +22,9 @@ Potem znowu nie ma, bo pojawia się dziecko. A jak mężczyzna prosi, to słyszy
 
 Gdyby kobiety lubiły seks, to na świecie nie byłoby prostytucji.
 
-Gdyby kobiety lubiły seks, to same by go inicjowały, lub przynajmniej byłyby skłonne do flirtu , ale ten najczęściej ucinają.
+Gdyby kobiety lubiły seks, to same by go inicjowały, lub przynajmniej byłyby skłonne do flirtu, ale ten najczęściej ucinają.
 
-Owszem, kobiety lubią usłyszeć miłe słowo od kolegi z pracy, ale gdy ten kolega poprosi o coś konkretnego to następuję bardzo konkretna odmowa. Kobieta lubi być adorowana, ale niczego w zamian dać już nie chce.
+Owszem, kobiety lubią usłyszeć miłe słowo od kolegi z pracy, ale gdy ten kolega poprosi o coś konkretnego, to następuję bardzo konkretna odmowa. Kobieta lubi być adorowana, ale niczego w zamian dać już nie chce.
 
 Zacząłem się przygotowywać do odejścia... Wiem jakie jest "równouprawnienie" w sądach, jeśli chodzi o opiekę nad dzieckiem. Zapisałem dziecko na różne zajęcia i je opłacałem. Gdy spotykaliśmy się ze znajomymi, prosiłem ich by robili nam (mi i dziecku) zdjęcia. Odbierałem dziecko z przedszkola (zresztą wcześniej też zawsze to robiłem). Kupowałem zabawki edukacyjne, książeczki.
 
