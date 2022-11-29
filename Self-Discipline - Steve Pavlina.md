@@ -1,8 +1,8 @@
 # Self-Discipline - Steve Pavlina
 
-## Self-Discipline
-
 https://stevepavlina.com/blog/2005/06/self-discipline/
+
+## Self-Discipline
 
 June 5, 2005
 
