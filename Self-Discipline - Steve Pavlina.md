@@ -1,22 +1,31 @@
-Self-Discipline
+# Self-Discipline - Steve Pavlina
+
+## Self-Discipline
+
+https://stevepavlina.com/blog/2005/06/self-discipline/
+
 June 5, 2005
+
 This week I’ll be blogging a series on self-discipline. New posts on this topic will appear every day Mon-Fri. I’ve also added a new self-discipline category.
 
 In this series I’ll be focusing on what I call the five pillars of self-discipline.
 
-The Five Pillars of Self-Discipline
+### The Five Pillars of Self-Discipline
+
 The five pillars of self-discipline are: Acceptance, Willpower, Hard Work, Industry, and Persistence. If you take the first letter of each word, you get the acronym “A WHIP” — a convenient way to remember them, since many people associate self-discipline with whipping themselves into shape.
 
 Each day of the series, I’ll explore one of these pillars, explaining why it’s important and how to develop it. But first a general overview….
 
-What Is Self-Discipline?
+### What Is Self-Discipline?
+
 Self-discipline is the ability to get yourself to take action regardless of your emotional state.
 
 Imagine what you could accomplish if you could simply get yourself to follow through on your best intentions no matter what. Picture yourself saying to your body, “You’re overweight. Lose 20 pounds.” Without self-discipline that intention won’t become manifest. But with sufficient self-discipline, it’s a done deal. The pinnacle of self-discipline is when you reach the point that when you make a conscious decision, it’s virtually guaranteed you’ll follow through on it.
 
 Self-discipline is one of many personal development tools available to you. Of course it is not a panacea. Nevertheless, the problems which self-discipline can solve are important, and while there are other ways to solve these problems, self-discipline absolutely shreds them. Self-discipline can empower you to overcome any addiction or lose any amount of weight. It can wipe out procrastination, disorder, and ignorance. Within the domain of problems it can solve, self-discipline is simply unmatched. Moreover, it becomes a powerful teammate when combined with other tools like passion, goal-setting, and planning.
 
-Building Self-Discipline
+### Building Self-Discipline
+
 My philosophy of how to build self-discipline is best explained by an analogy. Self-discipline is like a muscle. The more you train it, the stronger you become. The less you train it, the weaker you become.
 
 Just as everyone has different muscular strength, we all possess different levels of self-discipline. Everyone has some — if you can hold your breath a few seconds, you have some self-discipline. But not everyone has developed their discipline to the same degree.
@@ -51,13 +60,15 @@ While analogies like this are never perfect, I’ve gotten a lot of mileage out 
 
 Throughout this week we’ll dive more deeply into the five pillars of self-discipline. If you have any questions on the subject of self-discipline (either specific or general) that you’d like to see addressed, feel free to post them as comments, and I’ll do my best to incorporate them along the way.
 
-Self-Discipline: Acceptance
+## Self-Discipline: Acceptance
+
 June 6, 2005
+
 The first of the five pillars of self-discipline is acceptance. Acceptance means that you perceive reality accurately and consciously acknowledge what you perceive.
 
 This may sound simple and obvious, but in practice it’s extremely difficult. If you experience chronic difficulties in a particular area of your life, there’s a strong chance that the root of the problem is a failure to accept reality as it is.
 
-Why is acceptance a pillar of self-discipline? The most basic mistake people make with respect to self-discipline is a failure to accurately perceive and accept their present situation. Remember the analogy between self-discipline and weight training from yesterday’s post? If you’re going to succeed at weight training, the first step is to figure out what weights you can already lift. How strong are you right now? Until you figure out where you stand right now, you cannot adopt a sensible training program.
+Why is acceptance a pillar of self-discipline? The most basic mistake people make with respect to self-discipline is a failure to accurately perceive and accept their present situation. Remember the analogy between self-discipline and weight training from [yesterday’s post](http://stevepavlina.com/blog/2005/06/self-discipline/)? If you’re going to succeed at weight training, the first step is to figure out what weights you can already lift. How strong are you right now? Until you figure out where you stand right now, you cannot adopt a sensible training program.
 
 If you haven’t consciously acknowledged where you stand right now in terms of your level of self-discipline, it’s highly unlikely that you’re going to improve at all in this area. Imagine a would-be bodybuilder who has no idea how much weight s/he can lift and arbitrarily adopts a training routine. It’s virtually certain that the chosen weights will be either too heavy or too light. If the weights are too heavy, the trainee won’t be able to lift them at all and thus will experience no muscle growth. And if the weights are too light, the trainee will lift them easily but won’t build any muscle in doing so.
 
@@ -65,33 +76,34 @@ Similarly, if you want to increase your self-discipline, you must know where you
 
 Here’s a list of challenges to get you thinking about where you stand right now (in no particular order):
 
-Do you shower/bathe every day?
-Do you get up at the same time every morning? Including weekends?
-Are you overweight?
-Do you have any addictions (caffeine, nicotine, sugar, etc.) you’d like to break but haven’t?
-Is your email inbox empty right now?
-Is your office neat and well organized?
-Is your home neat and well organized?
-How much time do you waste in a typical day? On a weekend?
-If you make a promise to someone, what’s the percentage chance you’ll keep it?
-If you make a promise to yourself, what’s the percentage chance you’ll keep it?
-Could you fast for one day?
-How well organized is your computer’s hard drive?
-How often do you exercise?
-What’s the greatest physical challenge you’ve ever faced, and how long ago was it?
-How many hours of focused work do you complete in a typical workday?
-How many items on your to do list are older than 90 days?
-Do you have clear, written goals? Do you have written plans to achieve them?
-If you lost your job, how much time would you spend each day looking for a new one, and how long would you maintain that level of effort?
-How much TV do you currently watch? Could you give up TV for 30 days?
-How do you look right now? What does your appearance say about your level of discipline (clothes, grooming, etc)?
-Do you primarily select foods to eat based on health considerations or on taste/satiety?
-When was the last time you consciously adopted a positive new habit? Discontinued a bad habit?
-Are you in debt? Do you consider this debt an investment or a mistake?
-Did you decide in advance to be reading this blog right now, or did it just happen?
-Can you tell me what you’ll be doing tomorrow? Next weekend?
-On a scale of 1-10, how would you rate your overall level of self-discipline?
-What more could you accomplish if you could answer that last question with a 9 or 10?
+- Do you shower/bathe every day?
+- Do you get up at the same time every morning? Including weekends?
+- Are you overweight?
+- Do you have any addictions (caffeine, nicotine, sugar, etc.) you’d like to break but haven’t?
+- Is your email inbox empty right now?
+- Is your office neat and well organized?
+- Is your home neat and well organized?
+- How much time do you waste in a typical day? On a weekend?
+- If you make a promise to someone, what’s the percentage chance you’ll keep it?
+- If you make a promise to yourself, what’s the percentage chance you’ll keep it?
+- Could you fast for one day?
+- How well organized is your computer’s hard drive?
+- How often do you exercise?
+- What’s the greatest physical challenge you’ve ever faced, and how long ago was it?
+- How many hours of focused work do you complete in a typical workday?
+- How many items on your to do list are older than 90 days?
+- Do you have clear, written goals? Do you have written plans to achieve them?
+- If you lost your job, how much time would you spend each day looking for a new one, and how long would you maintain that level of effort?
+- How much TV do you currently watch? Could you give up TV for 30 days?
+- How do you look right now? What does your appearance say about your level of discipline (clothes, grooming, etc)?
+- Do you primarily select foods to eat based on health considerations or on taste/satiety?
+- When was the last time you consciously adopted a positive new habit? Discontinued a bad habit?
+- Are you in debt? Do you consider this debt an investment or a mistake?
+- Did you decide in advance to be reading this blog right now, or did it just happen?
+- Can you tell me what you’ll be doing tomorrow? Next weekend?
+- On a scale of 1-10, how would you rate your overall level of self-discipline?
+- What more could you accomplish if you could answer that last question with a 9 or 10?
+
 Just as there are different muscle groups which you train with different exercises, there are different areas of self-discipline: disciplined sleep, disciplined diet, disciplined work habits, disciplined communication, etc. It takes different exercises to build discipline in each area.
 
 My advice is to identify an area where your discipline is weakest, assess where you stand right now, acknowledge and accept your starting point, and design a training program for yourself to improve in this area. Start out with some easy exercises you know you can do, and gradually progress to greater challenges.
@@ -112,16 +124,20 @@ None of this just happened. It was intentional. And it certainly didn’t happen
 
 I AM telling you this to impress you, not with me but with yourself. I want you to be impressed by what you can accomplish over the next 5-10 years if you progressively build your self-discipline. It will not be easy, but it will be worth it. The first step is to openly accept where you are right now, whether you feel good about it or not. Surrender yourself to what you have to work with — maybe it isn’t fair, but it is what it is. And you won’t get any stronger until you accept where you are right now.
 
-Self-Discipline: Willpower
+## Self-Discipline: Willpower
+
 June 7, 2005
-The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.
-– Vince Lombardi
+
+> The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack of will.
+>
+> – Vince Lombardi
 
 Willpower — such a dirty word these days. How many commercials have you seen that attempt to position their products as a substitute for willpower? They begin by telling you that willpower doesn’t work and then attempt to sell you something “fast and easy” like a diet pill or some wacky exercise equipment. Often they’ll even guarantee impossible results in a dramatically short period of time — that’s a safe bet because people who lack willpower probably won’t take the time to return these useless products.
 
 But guess what… willpower does work. But in order to take full advantage of it, you must learn what it can and cannot do. People who say willpower doesn’t work are trying to use it in a way that’s beyond its capabilities.
 
-What Is Willpower?
+### What Is Willpower?
+
 Willpower is your ability to set a course of action and say, “Engage!”
 
 Willpower provides an intensely powerful yet temporary boost. Think of it as a one-shot thruster. It burns out quickly, but if directed intelligently, it can provide the burst you need to overcome inertia and create momentum.
@@ -132,21 +148,24 @@ Willpower is a concentration of force. You gather up all your energy and make a 
 
 The application of willpower includes the following steps:
 
-Choose your objective
-Create a plan of attack
-Execute the plan
+1. Choose your objective
+2. Create a plan of attack
+3. Execute the plan
+
 With willpower you may take your time implementing steps 1 and 2, but when you get to step 3, you’ve got to hit it hard and fast.
 
 Don’t try to tackle your problems and challenges in such a way that a high level of willpower is required every day. Willpower is unsustainable. If you attempt to use it for too long, you’ll burn out. It requires a level of energy that you can maintain only for a short period of time… in most cases the fuel is spent within a matter of days.
 
-Use Willpower to Create Self-Sustaining Momentum
+### Use Willpower to Create Self-Sustaining Momentum
+
 So if willpower can only be used in short, powerful bursts, then what’s the best way to apply it? How do you keep from slipping back into old patterns once the temporary willpower blast is over?
 
 The best way to use willpower is to establish a beachhead, such that further progress can be made with far less effort than is required of the initial thrust. Remember D-Day — once the Allies had established a beachhead, the road ahead was much easier for them. It was still challenging to be sure, especially with the close quarters fighting among hedge rows in France before the Rhino Tanks began plowing through them, but it was a lot easier than trying to maintain the focus, energy, and coordination of a full scale beach invasion every single day for another year.
 
 So the proper use of willpower is to establish that beachhead — to permanently change the territory itself such that it’s easier to continue moving on. Use willpower to reduce the ongoing need for such a high level of sustained force.
 
-An Example
+### An Example
+
 Let’s put all of the above together into a concrete example.
 
 Suppose your objective is to lose 20 pounds. You attempt to go on a diet. It takes willpower, and you do OK with it the first week. But within a few weeks you’ve fallen back into old habits and gained all the weight back. You try again with different diets, but the result is still the same. You can’t sustain momentum for long enough to reach your goal weight.
@@ -165,20 +184,24 @@ By the end of the day, you’ve used your willpower not to diet directly but to 
 
 Here are some previous blog entries that will give you even more ideas for modifying your environment:
 
-Environmental Reinforce of Your Goals
+- [Environmental Reinforce of Your Goals](http://stevepavlina.com/blog/2004/12/environmental-reinforcement-of-your-goals/)
+- [Are Your Friends an Elevator or a Cage?](http://stevepavlina.com/blog/2004/12/are-your-friends-an-elevator-or-a-cage/)
+- [Your Personal Accountability System](http://stevepavlina.com/blog/2005/02/your-personal-accountability-system/)
 
-- Are Your Friends an Elevator or a Cage?
-- Your Personal Accountability System
-- Don’t use willpower to attack your biggest problem directly. Use willpower to attack the environmental and social obstacles that perpetuate the problem. Establish a beachhead first, and then fortify your position (i.e. turn it into a habit, such as by doing a [30-Day Challenge](http://stevepavlina.com/blog/2005/04/30-days-to-success/)). Habit puts action on autopilot, such that very little willpower is required for ongoing progress, allowing you to practically coast towards your goal.
+Don’t use willpower to attack your biggest problem directly. Use willpower to attack the environmental and social obstacles that perpetuate the problem. Establish a beachhead first, and then fortify your position (i.e. turn it into a habit, such as by doing a [30-Day Challenge](http://stevepavlina.com/blog/2005/04/30-days-to-success/)). Habit puts action on autopilot, such that very little willpower is required for ongoing progress, allowing you to practically coast towards your goal.
 
-Self-Discipline: Hard Work
+## Self-Discipline: Hard Work
+
 June 8, 2005
-The big secret in life is that there is no big secret. Whatever your goal, you can get there if you’re willing to work.
-– Oprah Winfrey
+
+> The big secret in life is that there is no big secret. Whatever your goal, you can get there if you’re willing to work.
+>
+> – Oprah Winfrey
 
 Hard work — yet another dirty word.
 
-Hard Work Defined
+## Hard Work Defined
+
 My definition of hard work is that which challenges you.
 
 And why is challenge important? Why not just do what’s easiest?
@@ -215,10 +238,12 @@ Hard work goes hand-in-hand with acceptance. One of the things you must accept a
 
 Your life will reach a whole new level when you stop avoiding and fearing hard work and simply surrender to it. Make it your ally instead of your enemy. It’s a potent tool to have on your side.
 
-If you want to read another perspective on hard work, see Hard Work.
+If you want to read another perspective on hard work, see [Hard Work](http://stevepavlina.com/blog/2005/03/hard-work/).
 
-Self-Discipline: Industry
+## Self-Discipline: Industry
+
 June 9, 2005
+
 Industry is working hard. In contrast to hard work, being industrious doesn’t necessarily mean doing work that’s challenging or difficult. It simply means putting in the time. You can be industrious doing easy work or hard work.
 
 Imagine you have a baby. You’ll spend a lot of time changing diapers. But that isn’t really hard work — it’s just a matter of doing it over and over many times each day.
@@ -233,19 +258,21 @@ Sometimes we allow little annoyances to linger a bit too long. In January my wif
 
 It wasn’t difficult or costly to do these things. It was simply a matter of time to get them done. It didn’t require much skill or brainpower. All we had to do was just accept that they needed to be done, take a few minutes to figure out how to do them, and then do them.
 
-Put in the Time
+### Put in the Time
+
 There are many problems in life where the solution is largely a brainless time investment. If your email inbox is overloaded, this is not a challenging problem. Believe me — there are bigger challenges in life than handling old correspondence. I guarantee you have the brainpower to handle it. Getting your email inbox to empty is purely a matter of time. Maybe it will take you several hours to do it. If it’s worth several hours to get it done, then put in the time. Maybe enjoy some relaxing music as you do. Otherwise just hit Ctrl-A followed by Delete, and be done with it.
 
 How many problems do you have on your to do list right now that can be solved with the simple application of industry? Sometimes you don’t need to be particularly creative or clever about it — a brute force solution will do. But it’s easy to get stuck in a pattern of wishing that a brute force solution wasn’t necessary. It’s tedious. It’s boring. It’s not that important anyway. And yet it still needs to be done.
 
 By all means if you can find a way to avoid a time-consuming solution and find a faster or better way to bypass or eliminate the problem, take advantage of it. Delegate it, delete it — do whatever you can to remove the time burden. But if you know it’s something that won’t get done except via your personal time investment, like the ornery boxes in my home that refused to self-unpack, then just accept it and get it off your plate. Don’t complain. Don’t whine. Just do it.
 
-Develop Your Personal Productivity
+### Develop Your Personal Productivity
+
 Disciplining yourself to be industrious allows you to squeeze more value out of your time. Time is a constant, but your personal productivity is not. Some people will use the hours of their day far more efficiently than others. It’s amazing that people will spend extra money to buy a faster computer or a fuel efficient car, but they’ll barely pay any attention to their personal capacity. Your personal productivity will do a lot more for you than a computer or a car in the long run. Give an industrious programmer a 10-year old computer, and s/he’ll get much more done with it over the course of a year than a lazy programmer with state of the art technology.
 
 Despite all the technology and gadgets we have available that can potentially make us more efficient, your personal productivity is still your greatest bottleneck. Don’t look to technology to make you more productive. If you don’t consider yourself productive without technology, you won’t be productive with it — it will only serve to mask your bad habits. But if you’re already industrious without technology, it can help you become even more so. Think of technology as a force multiplier — it multiplies what you already are.
 
-If you want to make better use of your time, I recommend you begin with the approach in this article: Triple Your Personal Productivity.
+If you want to make better use of your time, I recommend you begin with the approach in this article: [Triple Your Personal Productivity](http://stevepavlina.com/blog/2005/03/triple-your-personal-productivity/).
 
 The basic idea behind the article is to first measure your current level of productivity (the article explains how to do this via time logging), measure your current “efficiency ratio,” and then gradually ramp it up.
 
@@ -257,24 +284,29 @@ When you pursue the path of developing your personal productivity, it may cause 
 
 Of course industry is only one tool among many. It will allow you to complete your work efficiently, but it won’t tell you what work to do in the first place. Industry is a low level tool. Working hard doesn’t necessarily mean working smart. But this weakness of industry doesn’t remove its powerful place in your personal development toolbox. Once you’ve decided on a course of action and see your plans laid out in front of you, nothing can do the job as well as industry. In the long run your results will come from your actions, and industry is all about action.
 
-Self-Discipline: Persistence
+## Self-Discipline: Persistence
+
 June 10, 2005
-Nothing in the world can take the place of Persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent. The slogan “Press On” has solved and always will solve the problems of the human race.
-– Calvin Coolidge
+
+> Nothing in the world can take the place of Persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent. The slogan “Press On” has solved and always will solve the problems of the human race.
+>
+> – Calvin Coolidge
 
 Persistence is the fifth and final pillar of self-discipline.
 
-What Is Persistence?
+### What Is Persistence?
+
 Persistence is the ability to maintain action regardless of your feelings. You press on even when you feel like quitting.
 
 When you work on any big goal, your motivation will wax and wane like waves hitting the shore. Sometimes you’ll feel motivated; sometimes you won’t. But it’s not your motivation that will produce results — it’s your action. Persistence allows you to keep taking action even when you don’t feel motivated to do so, and therefore you keep accumulating results.
 
 Persistence will ultimately provide its own motivation. If you simply keep taking action, you’ll eventually get results, and results can be very motivating. For example, you may become a lot more enthusiastic about dieting and exercising once you’ve lost those first 10 pounds and feel your clothes fitting more loosely.
 
-When to Give Up
+### When to Give Up
+
 Should you always persist and never give up? Certainly not. Sometimes giving up is clearly the best option.
 
-Have you ever heard of a company called Traf-O-Data? What about Microsoft? Both companies were started by Bill Gates and Paul Allen. Traf-O-Data was the first company they started, back in 1972. You can read the story of Traf-O-Data here. Gates and Allen ran it for several years before throwing in the towel. They gave up. Of course they did a little better with Microsoft.
+Have you ever heard of a company called Traf-O-Data? What about Microsoft? Both companies were started by Bill Gates and Paul Allen. Traf-O-Data was the first company they started, back in 1972. You can read the story of Traf-O-Data [here](http://en.wikipedia.org/wiki/Traf-O-Data). Gates and Allen ran it for several years before throwing in the towel. They gave up. Of course they did a little better with Microsoft.
 
 If they hadn’t given up on Traf-O-Data, then we wouldn’t have such rich collections of Microsoft and Bill Gates jokes today.
 
