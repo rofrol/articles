@@ -1,6 +1,6 @@
 https://www.wired.com/story/ethics-children-parenting-family-biology/
 
-Preferring Biological Children Is Immoral
+# Preferring Biological Children Is Immoral
 
 Most people say they want their kids to be their own genetic offspring—but such a desire is in conflict with other evolving values around parenting and family.
 Collage of a blurry couple both people kissing and a DNA strand mirrored on the other side.

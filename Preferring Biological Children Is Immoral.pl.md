@@ -1,6 +1,6 @@
 https://www.wired.com/story/ethics-children-parenting-family-biology/
 
-Preferowanie dzieci biologicznych jest niemoralne
+# Preferowanie dzieci biologicznych jest niemoralne
 
 Większość ludzi twierdzi, że chce, aby ich dzieci były ich własnym genetycznym potomstwem - ale takie pragnienie jest sprzeczne z innymi ewoluującymi wartościami dotyczącymi rodzicielstwa i rodziny.
 Kolaż rozmytej pary całujących się osób i nici DNA odzwierciedlonej po drugiej stronie.
