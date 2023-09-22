@@ -1,3 +1,5 @@
+# Cancers Appearing in Ways Never Before Seen After COVID Vaccinations: Dr. Harvey Risch
+
 Dr. Harvey Risch talks about the new 'turbo cancers,' vaccination, and how the COVID virus should be managed.
 
 There is evidence that cancers are occurring in excess after people receive COVID-19 vaccinations, according to Dr. Harvey Risch.
@@ -13,7 +15,7 @@ He said this is not how cancer normally develops.
 
 "There has to be some initiating stimulus to why this happens," he said.
 
-Fighting Cancer
+## Fighting Cancer
 
 Dr. Risch said that in his opinion, cancer is something a healthy human body can fight and disable, as the non-normal cancerous cells are gobbled up when detected in a body with a functional immune system. If the immune system is compromised, however, it cannot cope with the task of neutralizing cancerous cells, and cancerous cells are left to multiply and grow, leading to symptoms of cancer.
 
@@ -28,7 +30,7 @@ Another example Dr. Risch gave was breast cancer, which normally, if there is a 
 “Some of these cancers are so aggressive that between the time that they're first seen and when they come back for treatment after a few weeks, they've grown dramatically compared to what oncologists would have expected for the way cancer normally progresses,” he added.
 “Be attuned to your body,” Dr. Risch recommended, for noticing any new signals the body might give.
 
-Adverse Events After Vaccination
+## Adverse Events After Vaccination
 
 Dr. Risch also talked about the aspect of official medical agencies not recognizing someone as being vaccinated inside the first two weeks of vaccination. This happens, he said, because the medical agencies say that the effects of the vaccine need two weeks to start manifesting. Adverse effects occurring a few days after vaccinations were officially counted as health conditions manifesting in unvaccinated people, he said.
 
@@ -41,7 +43,7 @@ One example was the denial of effective early treatment and unnecessary vaccinat
 Dr. Risch said that a lot of people are now less likely to be “propagandized” regarding COVID, and that news reports about a new variant that is going to take over the world in the next month are “propaganda to sell the next batch of vaccines coming out in a few weeks.”
 “People are fed up with this and it’s going to be a lot more pushback,” he said.
 
-Risks to Society
+## Risks to Society
 
 Dr. Risch said that while the individual risk of an adverse reaction to the vaccine is relatively low, once that risk manifests itself at a greater scale, when millions of people have received the vaccine, the result is that hundreds of thousands of people are left with injuries and serious adverse events that are often worse than the virus itself.
 
