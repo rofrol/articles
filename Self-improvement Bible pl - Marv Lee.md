@@ -572,7 +572,7 @@ Prawo wibracji: Możesz przyciągnąć tylko to, z czym jesteś zestrojony wibra
 
 1. Zidentyfikuj samoograniczające tożsamości, które przyjąłeś i zastąp je tożsamościami transcendentalnymi.
 
-Musisz usunąć ze swojego umysłu każdą negatywną, pesymistyczną i samoograniczającą myśl.
+  Musisz usunąć ze swojego umysłu każdą negatywną, pesymistyczną i samoograniczającą myśl.
 
 2. Zidentyfikuj szkodliwe nawyki, które utrzymują cię w niskim stanie wibracyjnym. Hazard, pornografia, przypadkowy seks, ostre picie i tym podobne. W głębi duszy znasz nawyki, które niszczą twoje życie. Zerwij z nimi na stałe!
 Podnoszenie wibracji
