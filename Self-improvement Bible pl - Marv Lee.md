@@ -26,7 +26,7 @@ Niebezpieczeństwa związane z brakiem samoświadomości mogą być znaczące:
 - Trudności w podejmowaniu decyzji: Bez samoświadomości będziesz miał trudności z określeniem swoich wartości i priorytetów, co utrudni ci podejmowanie decyzji. Bez jasnego zrozumienia swojego celu i priorytetów trudno będzie wybrać najlepszy sposób działania.
 - Brak empatii: Samoświadomość jest ściśle powiązana z empatią, ponieważ pomaga zrozumieć własne emocje, co z kolei ułatwia zrozumienie i nawiązanie kontaktu z innymi na poziomie emocjonalnym. Rozwijanie samoświadomości pomoże ci budować silniejsze relacje, poprawić umiejętności komunikacyjne i stać się bardziej skutecznym w sytuacjach społecznych.
 - Niezdolność do przystosowania się do zmian: Będziesz zaślepiony swoimi uprzedzeniami i nie będziesz w stanie rozpoznać zmian, które musisz wprowadzić w swoim systemie przekonań i tożsamości.
-- Brak autentyczności: Bez samoświadomości będziesz mieć słabe poczucie wartości i brak solidnego przekonania o swoich wartościach. W rezultacie możesz odkryć, że zachowujesz się w sposób, który nie jest zgodny z twoim prawdziwym "ja". Może to sprawić, że poczujesz się odłączony od swojego autentycznego "ja", wypełniając się żalem i nienawiścią do samego siebie
+- Brak autentyczności: Bez samoświadomości będziesz mieć słabe poczucie wartości i brak solidnego przekonania o swoich wartościach. W rezultacie możesz odkryć, że zachowujesz się w sposób, który nie jest zgodny z twoim prawdziwym "ja". Może to sprawić, że poczujesz się odłączony od swojego autentycznego "ja", wypełniając się żalem i nienawiścią do samego siebie.
 - Trudności w relacjach osobistych i zawodowych: Kiedy nie jesteś świadomy własnych myśli, uczuć i zachowań, może być trudno skutecznie komunikować się i budować znaczące relacje z innymi. Może to prowadzić do poczucia samotności i izolacji, co może mieć negatywny wpływ na zdrowie psychiczne i ogólne samopoczucie.
 
 ### Stawanie się samoświadomym
@@ -45,7 +45,7 @@ Uważność jest kluczem do odblokowania zaawansowanego poziomu jasności i krea
 ### Dwa rodzaje myślenia
 
 - Kompulsywne myślenie
-  Jest to stan umysłowego niepokoju nękany przez natrętne myśli. Zużywa mózg, wyczerpuje energię i tłumi kreatywność.
+  Jest to stan umysłowego niepokoju nękanego przez natrętne myśli. Zużywa mózg, wyczerpuje energię i tłumi kreatywność.
   Słuchanie intuicji jest prawie niemożliwe, gdy natrętne myśli nieustannie zalewają naszą psychikę. Uraza, żal, niepokój, zmartwienia, zazdrość, niepewność, lęk, samotność i inne problemy psychiczne są zwykle wywoływane przez pojedynczą myśl.
 - Świadome myślenie
   Jest to zdolność do wybierania pożądanych myśli i spontanicznego odfiltrowywania tych niepotrzebnych. Twój umysł staje się wtedy bardziej zorganizowany, oczyszczony i silny. Pozwala to bez wysiłku zamanifestować pożądaną rzeczywistość.
@@ -60,12 +60,12 @@ Uważność jest kluczem do odblokowania zaawansowanego poziomu jasności i krea
 ### Jak rozwinąć silną obecność
 
 - Uważaj na oddech
-- Słuchanie
+- Słuchaj
 - Bądź delikatny
 - Skup się na jednej rzeczy na raz
 - Uspokój twoje źrenice
-- Śpiew
-- Aktywacja ciała wewnętrznego
+- Śpiewaj
+- Aktywuj ciało wewnętrzne
 
 ## NARZĘDZIA DLA SAMOŚWIADOMOŚCI
 
@@ -77,16 +77,16 @@ Prowadzenie dziennika jest jak osobista sesja terapeutyczna z samym sobą. Pozwa
 
 ### Korzyści z prowadzenia dziennika
 
-- Uspokój się i oczyść umysł
+- Uspokojenie się i oczyszczenie umysłu
 - Podejmowanie obiektywnych decyzji
-- Zwiększ swoją samoświadomość
+- Zwiększenie swojej samoświadomości
 - Poprawa umiejętności pisania
-- Zwiększ swoje poczucie wdzięczności
-- Reaguj na to, czego się nauczyłeś
-- Mierz i śledź swoje postępy
+- Zwiększenie swojego poczucie wdzięczności
+- Reagowanie na to, czego się nauczyłeś
+- Mierzenie i śledzenie swoich postępów
 - Ujawnienie ograniczających przekonań i tożsamości
 - Uwolnienie negatywnych myśli i emocji
-- Pielęgnuj samodyscyplinę, czyniąc z niej nawyk.
+- Pielęgnowanie samodyscypliny, czyniąc z niej nawyk.
 - Zwiększenie kreatywności i umiejętności rozwiązywania problemów
 
 ### Style prowadzenia dziennika
@@ -101,14 +101,15 @@ Oto najważniejsze style samorefleksji.
 
 Stoicyzm to filozofia, która kładzie nacisk na samokontrolę, racjonalność i akceptację tego, czego nie można zmienić. Jako stoik musisz skupić się na własnych myślach i zachowaniach, zamiast próbować kontrolować okoliczności zewnętrzne.
 
-Rozwijając samoświadomość i inteligencję emocjonalną, możesz nauczyć się reagować na przeciwności losu ze spokojem i jasnością. Prowadzenie dziennika jest potężnym narzędziem do kultywowania tych cech. Zapisując swoje myśli i emocje, zyskasz wgląd we własne wzorce myślenia i zachowania.
+Rozwijając samoświadomość i inteligencję emocjonalną, możesz nauczyć się reagować na przeciwności losu ze spokojem i jasnością. Prowadzenie dziennika jest potężnym narzędziem do kultywowania tych cech. Zapisując swoje myśli i emocje zyskasz wgląd we własne wzorce myślenia i zachowania.
 
 ### Jak prowadzić dziennik jak Marek Aureliusz
 
 - Jak mogę skupić się na tym, co mogę kontrolować i odpuścić to, czego nie mogę?
 - Jakie są moje podstawowe wartości? Jak mogę dostosować swoje myśli i działania do tych wartości?
 - Jak mogę kultywować poczucie oderwania od zewnętrznych wyników i zamiast tego skupić się na procesie?
-- Czego mogę się nauczyć z wcześniejszych porażek i błędów? Jak mogę wykorzystać te doświadczenia do rozwoju i poprawy? - Co mogę dziś zrobić, aby poprawić swoje zdrowie fizyczne, psychiczne i emocjonalne?
+- Czego mogę się nauczyć z wcześniejszych porażek i błędów? Jak mogę wykorzystać te doświadczenia do rozwoju i poprawy?
+- Co mogę dziś zrobić, aby poprawić swoje zdrowie fizyczne, psychiczne i emocjonalne?
 - Jakie są moje priorytety w życiu? Jak mogę upewnić się, że moje działania są zgodne z tymi priorytetami?
 
 ### Jak prowadzić dziennik jak Epiktet
@@ -139,22 +140,21 @@ W świecie nadmiernej stymulacji nie można przecenić znaczenia medytacji.
 - Zmniejszone stany zapalne: Medytacja może zmniejszyć stan zapalny w organizmie, który jest powiązany z wieloma problemami zdrowotnymi.
   Korzyści z medytacji
 - Lepsze samopoczucie emocjonalne: Medytacja może pomóc zmniejszyć negatywne emocje, takie jak złość i niepokój, jednocześnie zwiększając pozytywne emocje, takie jak współczucie i szczęście.
-- Lepsze funkcjonowanie mózgu: Badania wykazały, że medytacja może zwiększyć grubość kory przedczołowej, czyli części mózgu związanej z uwagą i funkcjonowaniem mózgu.
-  podejmowanie decyzji.
+- Lepsze funkcjonowanie mózgu: Badania wykazały, że medytacja może zwiększyć grubość kory przedczołowej, czyli części mózgu związanej z uwagą i funkcjonowaniem mózgu i podejmowaniem decyzji.
 
 ### Jak medytować
 
 - Wytęż umysł przed sesją.
 - Znajdź ciche i wygodne miejsce: Aby skutecznie medytować, ważne jest, aby znaleźć ciche i wygodne miejsce, w którym nikt nie będzie ci przeszkadzał. Może to być cichy pokój w domu lub spokojna przestrzeń na zewnątrz.
 - Usiądź w wygodnej pozycji: Znajdź wygodną pozycję siedzącą, która pozwoli na wyprostowanie kręgosłupa i rozluźnienie ciała. Możesz usiąść na poduszce lub krześle, w zależności od tego, co jest dla Ciebie wygodniejsze.
-- Zamknij oczy: Zamknięcie oczu może pomóc skupić uwagę do wewnątrz i ograniczyć rozpraszanie uwagi przez otoczenie zewnętrzne.
+- Zamknij oczy: Zamknięcie oczu może pomóc skupić uwagę do wewnątrz i ograniczyć rozpraszanie uwagi przez środowisko zewnętrzne.
 - Skup się na oddechu: Skup swoją uwagę na oddechu i obserwuj uczucie powietrza wchodzącego i wychodzącego z ciała. Możesz także liczyć oddechy, aby skupić się na oddechu.
 - Rozluźnij ciało: Skupiając się na oddechu, świadomie rozluźniaj ciało i uwalniaj wszelkie napięcia.
 - Obserwuj swoje myśli: Podczas medytacji w umyśle mogą pojawiać się myśli. Zamiast łapać się na tych myślach, obserwuj je bez osądzania i pozwól im przeminąć. - Skieruj swoją uwagę z powrotem na oddech: Ilekroć zauważysz, że rozpraszają cię myśli, delikatnie przenieś swoją uwagę z powrotem na oddech.
 - Ćwicz regularnie: Konsekwencja jest kluczem do medytacji. Zobowiąż się do regularnej medytacji, nawet jeśli będzie to tylko kilka minut każdego dnia.
 - Bądź dla siebie cierpliwy i współczujący: Medytacja jest praktyką, a jej rozwój wymaga czasu i cierpliwości. Bądź dla siebie miły i współczujący i nie osądzaj siebie za jakiekolwiek postrzegane "niepowodzenia".
 - Ustal intencję: Zanim rozpoczniesz praktykę medytacyjną, ustal intencję tego, co masz nadzieję osiągnąć. Intencja ta nie powinna być zorientowana na cel, ale na nastawienie.
-- Korzystaj z medytacji z przewodnikiem: Medytacje z przewodnikiem mogą być pomocnym narzędziem dla początkujących, którzy mogą mieć trudności z samodzielnym utrzymaniem koncentracji. Istnieje wiele zasobów dostępnych online, w tym medytacje z przewodnikiem prowadzone przez Sadhguru.
+- Korzystaj z medytacji prowadzonej: Medytacje prowadzone mogą być pomocnym narzędziem dla początkujących, którzy mogą mieć trudności z samodzielnym utrzymaniem koncentracji. Istnieje wiele zasobów dostępnych online, w tym medytacje prowadzone prowadzone przez Sadhguru.
 - Włącz uważność do codziennego życia: Medytacja to nie tylko praktyka wykonywana w odosobnieniu. Włącz uważność do swojego codziennego życia, będąc w pełni obecnym w każdej chwili i zwracając uwagę na swoje myśli, emocje i działania.
 
 ### Sztuka metapoznania
@@ -162,12 +162,12 @@ W świecie nadmiernej stymulacji nie można przecenić znaczenia medytacji.
 Metapoznanie to zdolność do dociekania i refleksji nad prawdziwą naturą myśli. To sztuka obserwowania wewnętrznego funkcjonowania umysłu, bez osądzania i przywiązania. W ten sposób uzyskasz wgląd we wzorce i uprzedzenia, które kształtują twoje myślenie.
 Ta czujność usunie śmieci z umysłu i zrobi miejsce na kreatywność i klarowność. Jest to potężne narzędzie, które poprawi twoje zdolności poznawcze i zwiększy zrozumienie ludzkiej psychologii.
 
-Aby ćwiczyć metapoznanie, konieczne jest zrozumienie różnych poziomów świadomości
+Aby ćwiczyć metapoznanie, konieczne jest zrozumienie różnych poziomów świadomości:
 
-- Świadomość sensoryczna: Jest to najbardziej podstawowy poziom świadomości, w którym jesteś po prostu świadomy informacji napływających przez zmysły (wzrok, dźwięk, dotyk, smak, zapach). Ten poziom świadomości jest w większości automatyczny i nie wymaga dużego świadomego wysiłku.
-- Świadomość percepcyjna: Ten poziom świadomości obejmuje interpretowanie i nadawanie znaczenia otrzymywanym informacjom sensorycznym. Obejmuje identyfikowanie wzorców, rozpoznawanie obiektów i dokonywanie osądów na temat tego, co postrzegasz.
-- Świadomość poznawcza: Ten poziom świadomości obejmuje procesy myślowe wyższego rzędu, takie jak rozumowanie, rozwiązywanie problemów i podejmowanie decyzji. Obejmuje on świadomą uwagę i koncentrację oraz wymaga większego wysiłku umysłowego niż poprzednie poziomy.
-- Świadomość transcendentalna: Jest to najwyższy poziom świadomości, w którym jesteś w stanie przekroczyć swoje zwykłe postrzeganie rzeczywistości i doświadczyć głębszego poczucia połączenia i jedności z Wszechświatem. Ten poziom świadomości uzyskuje się poprzez praktyki duchowe, takie jak medytacja lub dociekanie siebie.
+- **Świadomość sensoryczna**: Jest to najbardziej podstawowy poziom świadomości, w którym jesteś po prostu świadomy informacji napływających przez zmysły (wzrok, dźwięk, dotyk, smak, zapach). Ten poziom świadomości jest w większości automatyczny i nie wymaga dużego świadomego wysiłku.
+- **Świadomość percepcyjna**: Ten poziom świadomości obejmuje interpretowanie i nadawanie znaczenia otrzymywanym informacjom sensorycznym. Obejmuje identyfikowanie wzorców, rozpoznawanie obiektów i dokonywanie osądów na temat tego, co postrzegasz.
+- **Świadomość poznawcza**: Ten poziom świadomości obejmuje procesy myślowe wyższego rzędu, takie jak rozumowanie, rozwiązywanie problemów i podejmowanie decyzji. Obejmuje on świadomą uwagę i koncentrację oraz wymaga większego wysiłku umysłowego niż poprzednie poziomy.
+- **Świadomość transcendentalna**: Jest to najwyższy poziom świadomości, w którym jesteś w stanie przekroczyć swoje zwykłe postrzeganie rzeczywistości i doświadczyć głębszego poczucia połączenia i jedności z Wszechświatem. Ten poziom świadomości uzyskuje się poprzez praktyki duchowe, takie jak medytacja lub dociekanie siebie.
 
 Umysł jest źródłem ciągłej paplaniny i rozproszenia. Kluczem do spokojnego umysłu jest jego obojętne obserwowanie.
 
@@ -193,7 +193,7 @@ Ten stan świadomości pozwoli ci zobaczyć umysł takim, jakim jest naprawdę i
 Robienie tego, co należy zrobić w danym momencie, niezależnie od tego, jak się czujesz. Wymaga to użycia siły woli, aby wybrać to, co jest korzystne i zgodne z długoterminowymi celami, a nie to, co jest atrakcyjne.
 
 - Medytacja nad pornografią
-- Hustling zamiast clubbingu
+- Pracowitość zamiast clubbingu
 - Zdrowa żywność ponad fast foodami
 
 #### Dyscyplina reaktywna
@@ -214,12 +214,12 @@ Oto kilka sposobów na praktykowanie dyscypliny reaktywnej:
 
 Przewidywanie i robienie rzeczy z wyprzedzeniem, aby lepiej kontrolować sytuację. Oto kilka sposobów na praktykowanie proaktywnej dyscypliny:
 
-- Planuj z wyprzedzeniem
+- Planowanie z wyprzedzeniem
 - Ustawianie przypomnień
 - Tworzenie procedur
 - Przewidywanie przeszkód
 - Eliminacja czynników rozpraszających uwagę
-- Ćwicz samokontrolę
+- Ćwiczenie samokontroli
 
 ### Rodzaje dyscyplin do opanowania
 
@@ -308,7 +308,7 @@ Dzieje się tak, gdy utkniesz w pętli bezmyślnego przewijania. Nadmierne korzy
 ### Tworzenie funkcjonalnych systemów
 
 - Jasno określ swój cel w umyśle i na papierze.
-- Znajdź swój kluczowy nawyk
+- Znajdź swój kluczowy nawyk.
 - Ustaw wyzwalacze, które zmuszą cię do podjęcia działania.
 - Znajdź sposoby na dostosowanie środowiska do swoich potrzeb
 
@@ -326,7 +326,7 @@ Równowaga emocjonalna sprawi, że będziesz bardziej opanowany, spokojny i krea
 
 #### Zorganizuj swoją energię
 
-Twoja energia i siła woli to ograniczone zasoby. Skonfiguruj systemy automatyzujące powtarzalne zadania. Wyeliminuj pijawki energetyczne - bezmyślne scrollowanie, picie alkoholu lub pornografia.
+Twoja energia i siła woli to ograniczone zasoby. Skonfiguruj systemy automatyzujące powtarzalne zadania. Wyeliminuj pijawki energetyczne - bezmyślne przewijanie, picie alkoholu lub pornografia.
 
 #### Zorganizuj swoje działania
 
@@ -396,7 +396,8 @@ Często uzależnienia są formą mechanizmu radzenia sobie, ulgą od pewnych emo
 
 Stworzenie nowego alter ego zapewni nową tożsamość i świeżą perspektywę.
 
-- Zidentyfikuj cechy i cechy, które chcesz, aby uosabiał twój nowy awatar. - Nadaj swojemu nowemu awatarowi imię i historię.
+- Zidentyfikuj cechy i cechy, które chcesz, aby uosabiał twój nowy awatar.
+- Nadaj swojemu nowemu awatarowi imię i historię.
 - Użyj technik wizualizacji, aby ożywić swojego nowego awatara. Wyobraź sobie siebie w sytuacjach, w których normalnie zwróciłbyś się do swojego nałogu, ale tym razem wizualizuj siebie jako swojego nowego awatara, konsekwentnie i skutecznie poruszającego się w sytuacji bez poddawania się nałogowi.
 - Ćwicz ucieleśnianie swojego nowego awatara na małe sposoby w ciągu dnia.
 
@@ -420,9 +421,9 @@ Przecenianie swojej siły woli jest dużym błędem. Najprostszym sposobem zapob
 
 Według Tantry uzależnienie wynika z:
 
-- Niezrównoważone czakry
-- Odłączenie od duchowej jaźni
-- i brak świadomości chwili obecnej
+- Niezrównoważonych czakr
+- Odłączenia od duchowej jaźni
+- i braku świadomości chwili obecnej
 
 Uzależnienie jest reakcją na brak równowagi energii w tobie. Ta niekontrolowana energia może objawiać się na różne sposoby, takie jak niepokój, stres lub niepokój.
 
@@ -431,7 +432,7 @@ Stając się uważnym, równoważąc swoje czakry i kierując swoją energię ku
 ### Znaczenie uważności
 
 - Zwiększona świadomość czynników wyzwalających: Pomaga zidentyfikować myśli, uczucia i sytuacje, które wyzwalają uzależniające zachowania, umożliwiając ich ominięcie, zanim doprowadzą do nawrotu.
-- Zwiększony dystans i siła woli: ta pierwsza pomaga stworzyć przestrzeń między tobą a twoją uzależnioną tożsamością, podczas gdy druga pomaga ci dokonywać lepszych osądów i wyborów życiowych.
+- Zwiększony dystans i siła woli: to pierwsze pomaga stworzyć przestrzeń między tobą a twoją uzależnioną tożsamością, podczas gdy drugie pomaga ci dokonywać lepszych osądów i wyborów życiowych.
 - Lepsza regulacja emocjonalna: Pomaga regulować emocje i radzić sobie ze stresem i niepokojem, zmniejszając prawdopodobieństwo uciekania się do nałogowych zachowań w celu uzyskania ulgi.
 - Zwiększona samoświadomość i akceptacja: Pomaga obserwować siebie z głębszego stanu, pozwalając stać się mniej samokrytycznym i osądzającym. To z kolei eliminuje poczucie winy, wstydu i nienawiści do samego siebie, które tylko podsycają uzależniające zachowania.
 - Zwiększone skupienie i koncentracja: Zwiększa skupienie i koncentrację, dzięki czemu łatwiej jest oprzeć się pokusom i pozostać zaangażowanym w swoją transcendencję.
