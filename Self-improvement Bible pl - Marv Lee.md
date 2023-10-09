@@ -71,7 +71,7 @@ Uważność jest kluczem do odblokowania zaawansowanego poziomu jasności i krea
 
 ### Sztuka pisania dziennika
 
-Dziennikarstwo to praktyka zapisywania swoich myśli, uczuć, doświadczeń i pomysłów w osobistym dzienniku lub pamiętniku. Jest to forma autorefleksji i wyrażania siebie, która pozwala odkrywać emocje, przetwarzać doświadczenia i uzyskać wgląd we własne myśli i zachowania.
+Prowadzenie dziennika to praktyka zapisywania swoich myśli, uczuć, doświadczeń i pomysłów w osobistym dzienniku lub pamiętniku. Jest to forma autorefleksji i wyrażania siebie, która pozwala odkrywać emocje, przetwarzać doświadczenia i uzyskać wgląd we własne myśli i zachowania.
 
 Prowadzenie dziennika jest jak osobista sesja terapeutyczna z samym sobą. Pozwala rozluźnić umysł i ujawnić luki w procesie myślowym. Jest to najlepsza meta-umiejętność rozwijająca kreatywność i panowanie nad emocjami.
 
@@ -95,7 +95,7 @@ Prowadzenie dziennika jest jak osobista sesja terapeutyczna z samym sobą. Pozwa
 - Prompted Journaling: Ten rodzaj prowadzenia dziennika polega na pisaniu w oparciu o konkretne podpowiedzi lub pytania, które pomagają odkrywać różne aspekty życia, takie jak cele, obawy, wartości lub wzorce zachowań.
 - Zapisywanie snów: Polega to na zapisywaniu swoich snów zaraz po przebudzeniu. Pomoże ci to stać się bardziej świadomym w stanie snu, dzięki czemu będziesz mógł lepiej zapamiętywać swoje sny i analizować je w celu uzyskania wglądu w swój podświadomy umysł.
 
-Oto najważniejsze style samodyscypliny
+Oto najważniejsze style samorefleksji.
 
 ### Stoicki plan prowadzenia dziennika
 
@@ -604,7 +604,7 @@ Co najważniejsze, nie dopuszczaj do siebie żadnych wątpliwości, strachu i ne
 
 ### Stwórz swoją wyimaginowaną scenę
 
-Zapisz doświadczenie, które chcesz stworzyć.Ta scena powinna być tym, jak wyglądałoby Twoje życie, gdyby Twoje pragnienie już się zamanifestowało. Wyobraź sobie siebie, swoje uczucia, otoczenie, ludzi wokół ciebie, to co robisz, co mówisz. Niech będzie to tak żywe, jak to tylko możliwe. Wnieś jak najwięcej szczegółów, stymuluj wszystkie zmysły i faktycznie poczuj emocje, które odczuwałbyś, gdy twój cel się urzeczywistni.
+Zapisz doświadczenie, które chcesz stworzyć. Ta scena powinna być tym, jak wyglądałoby Twoje życie, gdyby Twoje pragnienie już się zamanifestowało. Wyobraź sobie siebie, swoje uczucia, otoczenie, ludzi wokół ciebie, to co robisz, co mówisz. Niech będzie to tak żywe, jak to tylko możliwe. Wnieś jak najwięcej szczegółów, stymuluj wszystkie zmysły i faktycznie poczuj emocje, które odczujesz, gdy twój cel się urzeczywistni.
 
 ### Stwórz tablicę wizji
 
