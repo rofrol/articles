@@ -1,9 +1,3 @@
----
-created: 2023-10-01T21:04:06+02:00
-modified: 2023-10-03T03:44:17+02:00
-type: Journal
----
-
 https://twitter.com/themarvlee/status/1707449082598371705
 
 JAK NA DOBRE POKONAĆ PROKRASTYNACJĘ - Marv Lee
