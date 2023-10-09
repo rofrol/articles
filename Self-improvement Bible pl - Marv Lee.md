@@ -2,7 +2,7 @@
 
 ## Wprowadzenie
 
-Witamy w *The Art of Success*, najbardziej zaawansowanym kursie samodoskonalenia zaprojektowanym, aby pomóc ci w pełni wykorzystać swój potencjał. Sukces to coś więcej niż osiągnięcie zewnętrznego statusu, to ponowne połączenie się z własnym duchem i opanowanie umiejętności i nawyków potrzebnych do stworzenia pełnego życia.
+Witamy w **The Art of Success**, najbardziej zaawansowanym kursie samodoskonalenia zaprojektowanym, aby pomóc ci w pełni wykorzystać swój potencjał. Sukces to coś więcej niż osiągnięcie zewnętrznego statusu, to ponowne połączenie się z własnym duchem i opanowanie umiejętności i nawyków potrzebnych do stworzenia pełnego życia.
 
 The Art of Success to holistyczne podejście do osiągania sukcesu we wszystkich dziedzinach życia. Dzięki The Art of Success uzyskasz dostęp do potężnych narzędzi i strategii rozwijania samoświadomości, samodyscypliny, samokontroli i umiejętności manifestacji. Dowiesz się również, jak pokonać przeszkody, takie jak prokrastynacja, niezdyscyplinowanie i uzależnienia.
 
