@@ -114,7 +114,8 @@ W świecie nadmiernej stymulacji nie można przecenić znaczenia medytacji.
 Korzyści z medytacji
 - Redukcja stresu: Wykazano, że medytacja zmniejsza stres poprzez obniżenie poziomu hormonu stresu - kortyzolu w organizmie.
 - Poprawa zdrowia psychicznego: Badania wykazały, że medytacja może pomóc zmniejszyć objawy lęku, depresji i zespołu stresu pourazowego (PTSD).
-- Zwiększone skupienie i uwaga: Wykazano, że medytacja poprawia uwagę i wydajność poznawczą oraz może zwiększyć zdolność do wielozadaniowości. - Niższe ciśnienie krwi: Badania wykazały, że medytacja może pomóc obniżyć ciśnienie krwi, zmniejszając ryzyko chorób serca i udaru mózgu.
+- Zwiększone skupienie i uwaga: Wykazano, że medytacja poprawia uwagę i wydajność poznawczą oraz może zwiększyć zdolność do wielozadaniowości.
+- Niższe ciśnienie krwi: Badania wykazały, że medytacja może pomóc obniżyć ciśnienie krwi, zmniejszając ryzyko chorób serca i udaru mózgu.
 Korzyści z medytacji
 - Lepszy sen: Wykazano, że regularna praktyka medytacji poprawia jakość snu, zmniejszając bezsenność i poprawiając ogólny czas trwania snu.
 - Wzmocniona funkcja układu odpornościowego: Badania wykazały, że medytacja może zwiększyć aktywność komórek naturalnych zabójców, które pomagają zwalczać wirusy i komórki rakowe.
