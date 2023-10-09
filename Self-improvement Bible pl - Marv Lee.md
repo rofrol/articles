@@ -452,15 +452,13 @@ Uważność można praktykować każdego dnia, o każdej porze i w każdym miejs
 
 Czakry to centra energetyczne w ciele, które regulują przepływ energii. Kiedy te czakry są zablokowane lub źle ustawione, może to skutkować brakiem równowagi fizycznej, emocjonalnej i psychicznej, w tym uzależnieniem.
 
-### Jak zrównoważyć swoje czakry
-
 #### Czakra korzenia
 
 Ta czakra jest związana z poczuciem bezpieczeństwa, stabilności i połączenia z ziemią. Osoby z nadaktywną czakrą korzenia mogą doświadczać lenistwa, nadmiernego przybierania na wadze z przejadania się i niezdrowego zamiłowania do rzeczy materialnych. Niedoczynność czakry korzenia objawia się lękliwością, chronicznym niepokojem, niepokojem, ciągłym brakiem apetytu, dezorganizacją lub nieporządkiem.
 
 Powoduje to uzależnienie od hazardu, gier wideo, rozrywki, narkotyków lub alkoholu.
 
-Aby zrównoważyć tę czakrę, ćwicz ćwiczenia uziemiające, takie jak chodzenie boso po trawie lub pozycje jogi, takie jak pozycja górska.
+Aby zrównoważyć tę czakrę, ćwicz ćwiczenia uziemiające, takie jak chodzenie boso po trawie lub pozycje jogi, takie jak pozycja góry.
 
 #### Czakra sakralna
 
@@ -468,11 +466,11 @@ Czakra sakralna jest związana z kreatywnością, przyjemnością i seksualnośc
 
 Może to prowadzić do niezdrowego uzależnienia od leków przeciwbólowych, pornografii, czekolady, cukru lub marihuany.
 
-Do równowaga ta czakrę, rozwijać wielokrotny kreatywne ujścia i budować zdrowe relacje seksualne.
+Aby zrównoważyć tę czakrę, należy rozwijać wiele kreatywnych możliwości i budować zdrowe relacje seksualne.
 
 #### Czakra splotu słonecznego
 
-Czakra splotu słonecznego jest związana z poczuciem własnej wartości, siłą woli i poczuciem własnej wartości. Nadaktywne trzecie centrum skutkuje nadpobudliwością, arogancją, narcyzmem, niezdrową konkurencyjnością i zachowaniami manipulacyjnymi. Niedostatecznie aktywna trzecia czakra skutkuje letargiem, apatią, biernością, niezdrowym oderwaniem, słabą wolą i niską samooceną.
+Czakra splotu słonecznego jest związana z poczuciem własnej wartości, siłą woli i samooceny. Nadaktywne trzecie centrum skutkuje nadpobudliwością, arogancją, narcyzmem, niezdrową konkurencyjnością i zachowaniami manipulacyjnymi. Niedostatecznie aktywna trzecia czakra skutkuje letargiem, apatią, biernością, niezdrowym oderwaniem, słabą wolą i niską samooceną.
 
 Ten brak równowagi może prowadzić do pracoholizmu, częstego gniewu lub uzależnienia od napojów gazowanych lub kofeiny.
 
@@ -480,9 +478,9 @@ Aby zrównoważyć tę czakrę, praktykuj miłość do siebie, pozytywne afirmac
 
 #### Czakra serca
 
-Czakra serca jest związana ze zdolnością do dawania i otrzymywania miłości, współczucia i empatii. Oznaki nadaktywnej czakry serca mogą obejmować zachowanie polegające na zadowalaniu ludzi, brak granic, wysoką podatność na presję rówieśników i bycie zbyt miłym. Z drugiej strony, niedoczynność czakry serca prowadzi do lęku przed wrażliwością, samoizolacji, braku empatii i trudności z wybaczaniem innym.
+Czakra serca jest związana ze zdolnością do dawania i otrzymywania miłości, współczucia i empatii. Oznaki nadaktywnej czakry serca mogą obejmować zachowanie polegające na zadowalaniu ludzi, brak własnych granic, wysoką podatność na presję rówieśników i bycie zbyt miłym. Z drugiej strony, niedoczynność czakry serca prowadzi do lęku przed wrażliwością, samoizolacji, braku empatii i trudności z wybaczaniem innym.
 
-Może to powodować uzależnienie od romantyzmu, nikotyny, czekolady lub słodkich pokarmów i napojów
+Może to powodować uzależnienie od romantyzmu, nikotyny, czekolady lub słodkich pokarmów i napojów.
 
 Aby zrównoważyć tę czakrę, praktykuj wdzięczność, medytację życzliwości i współczucie dla siebie. Spędzanie czasu na łonie natury może również pomóc otworzyć czakrę serca.
 
@@ -502,7 +500,7 @@ Praktyki takie jak medytacja, wizualizacja i metapoznanie mogą pomóc zrównowa
 
 #### Czakra korony
 
-Czakra korony jest związana z uniwersalnym połączeniem i wyższą świadomością. Oznaki nadaktywnej czakry korony: niepokój, zaprzeczanie, asceza, obsesja na punkcie akcji, fantazji lub filozofii. Oznaki niedoczynności czakry korony: brak jasności, brak zainteresowania duchowością, depresja i nadmierne myślenie.
+Czakra korony jest związana z uniwersalnym połączeniem i wyższą świadomością. Oznaki nadaktywnej czakry korony: niepokój, zaprzeczanie, asceza, obsesja na punkcie fikcji, fantazji lub filozofii. Oznaki niedoczynności czakry korony: brak jasności, brak zainteresowania duchowością, depresja i nadmierne myślenie.
 
 Może to powodować uzależnienie od substancji zmieniających rzeczywistość, takich jak marihuana, grzyby, LSD, astrologia lub rytuały.
 
@@ -564,11 +562,17 @@ Uzależnienia są często podsycane przez wstyd i obwinianie samego siebie. Kied
 
 ### 3 potężne prawa wszechświata
 
-Prawo przyciągania: Negatywne emocje i tożsamość przyciągają negatywne doświadczenia i vice versa. Cała twoja osobowość jest energetycznym magnesem, który nieustannie przyciąga ludzi i doświadczenia o tej samej długości fali.
+#### Prawo przyciągania
 
-Prawo założeń: Cokolwiek zakładasz, że jest prawdą, staje się twoją rzeczywistością. W związku z tym, jeśli założysz, że twoje pragnienie jest prawdziwe z silnym przekonaniem, twój podświadomy umysł zamieni je w rzeczywistość.
+Negatywne emocje i tożsamość przyciągają negatywne doświadczenia i vice versa. Cała twoja osobowość jest energetycznym magnesem, który nieustannie przyciąga ludzi i doświadczenia o tej samej długości fali.
 
-Prawo wibracji: Możesz przyciągnąć tylko to, z czym jesteś zestrojony wibracyjnie. Twoje myśli generują wibracje, twoje wibracje tworzą twoją energię, a twoja energia przyciąga ludzi i doświadczenia o tej samej częstotliwości. Aby zamanifestować pożądaną rzeczywistość, musisz podnieść swoje wibracje.
+#### Prawo założeń
+
+Cokolwiek zakładasz, że jest prawdą, staje się twoją rzeczywistością. W związku z tym, jeśli założysz, że twoje pragnienie jest prawdziwe z silnym przekonaniem, twój podświadomy umysł zamieni je w rzeczywistość.
+
+#### Prawo wibracji
+
+Możesz przyciągnąć tylko to, z czym jesteś zestrojony wibracyjnie. Twoje myśli generują wibracje, twoje wibracje tworzą twoją energię, a twoja energia przyciąga ludzi i doświadczenia o tej samej częstotliwości. Aby zamanifestować pożądaną rzeczywistość, musisz podnieść swoje wibracje.
 
 1. Zidentyfikuj samoograniczające tożsamości, które przyjąłeś i zastąp je tożsamościami transcendentalnymi.\
    \
