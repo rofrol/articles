@@ -2,9 +2,9 @@
 
 ## Wprowadzenie
 
-Witamy w **The Art of Success**, najbardziej zaawansowanym kursie samodoskonalenia zaprojektowanym, aby pomóc ci w pełni wykorzystać swój potencjał. Sukces to coś więcej niż osiągnięcie zewnętrznego statusu, to ponowne połączenie się z własnym duchem i opanowanie umiejętności i nawyków potrzebnych do stworzenia pełnego życia.
+Witamy w Sztuce sukcesu, najbardziej zaawansowanym kursie samodoskonalenia zaprojektowanym, aby pomóc ci w pełni wykorzystać swój potencjał. Sukces to coś więcej niż osiągnięcie zewnętrznego statusu, to ponowne połączenie się z własnym duchem i opanowanie umiejętności i nawyków potrzebnych do stworzenia pełnego życia.
 
-The Art of Success to holistyczne podejście do osiągania sukcesu we wszystkich dziedzinach życia. Dzięki The Art of Success uzyskasz dostęp do potężnych narzędzi i strategii rozwijania samoświadomości, samodyscypliny, samokontroli i umiejętności manifestacji. Dowiesz się również, jak pokonać przeszkody, takie jak prokrastynacja, niezdyscyplinowanie i uzależnienia.
+Sztuka sukcesu to holistyczne podejście do osiągania sukcesu we wszystkich dziedzinach życia. Dzięki Sztuce sukcesu uzyskasz dostęp do potężnych narzędzi i strategii rozwijania samoświadomości, samodyscypliny, samokontroli i umiejętności manifestacji. Dowiesz się również, jak pokonać przeszkody, takie jak prokrastynacja, niezdyscyplinowanie i uzależnienia.
 
 Gwarantuję, że pod koniec tego kursu będziesz przepełniony nieskończoną kreatywnością, klarownością, samoświadomością, siłą woli i kosmiczną energią.
 
@@ -137,10 +137,10 @@ W świecie nadmiernej stymulacji nie można przecenić znaczenia medytacji.
 - Wzmocniona funkcja układu odpornościowego: Badania wykazały, że medytacja może zwiększyć aktywność komórek naturalnych zabójców, które pomagają zwalczać wirusy i komórki rakowe.
 - Leczenie bólu: Wykazano, że medytacja jest skuteczna w zmniejszaniu przewlekłego bólu, w tym bólu pleców i głowy.
 - Zmniejszone stany zapalne: Medytacja może zmniejszyć stan zapalny w organizmie, który jest powiązany z wieloma problemami zdrowotnymi.
-Korzyści z medytacji
+  Korzyści z medytacji
 - Lepsze samopoczucie emocjonalne: Medytacja może pomóc zmniejszyć negatywne emocje, takie jak złość i niepokój, jednocześnie zwiększając pozytywne emocje, takie jak współczucie i szczęście.
 - Lepsze funkcjonowanie mózgu: Badania wykazały, że medytacja może zwiększyć grubość kory przedczołowej, czyli części mózgu związanej z uwagą i funkcjonowaniem mózgu.
-podejmowanie decyzji.
+  podejmowanie decyzji.
 
 ### Jak medytować
 
@@ -190,8 +190,8 @@ Ten stan świadomości pozwoli ci zobaczyć umysł takim, jakim jest naprawdę i
 
 #### Aktywna dyscyplina
 
-
 Robienie tego, co należy zrobić w danym momencie, niezależnie od tego, jak się czujesz. Wymaga to użycia siły woli, aby wybrać to, co jest korzystne i zgodne z długoterminowymi celami, a nie to, co jest atrakcyjne.
+
 - Medytacja nad pornografią
 - Hustling zamiast clubbingu
 - Zdrowa żywność ponad fast foodami
@@ -519,7 +519,7 @@ Mistrzostwo w swoim rzemiośle lub zawodzie polega na poświęceniu się umieję
 - Wyznacz sobie konkretne i mierzalne cele i pracuj nad ich osiągnięciem.
 - Poszukaj informacji zwrotnej i konstruktywnej krytyki od innych, aby poprawić swoje umiejętności.
 - Nieustannie się ucz i stawiaj sobie nowe wyzwania.
- 
+
 #### Poszukiwanie prawdy
 
 Poszukiwanie prawdy wiąże się ze szczerym poszukiwaniem wiedzy i zrozumienia. Wymaga to wielu badań, autorefleksji, krytycznego myślenia, eksploracji i chęci zakwestionowania własnych przekonań i założeń. Poszukując prawdy, można lepiej zrozumieć siebie i otaczający świat, co prowadzi do osobistego rozwoju i spełnienia.
@@ -527,8 +527,8 @@ Poszukiwanie prawdy wiąże się ze szczerym poszukiwaniem wiedzy i zrozumienia.
 - Czytaj dużo i badaj różne punkty widzenia.
 - Angażowanie się w zdrowe debaty i dyskusje z innymi.
 - Ćwicz autorefleksję i introspekcję, aby uzyskać głębszy wgląd w siebie i
-otaczający cię świat.
- 
+  otaczający cię świat.
+
 #### Opanowanie ciała i umysłu
 
 Opanowanie ciała i umysłu obejmuje dbanie o zdrowie fizyczne i psychiczne. Fizycznie powinieneś skupić się na poprawie swojej siły, wytrzymałości, elastyczności, energii i estetyki. Psychicznie powinieneś skupić się na poprawie swojego spokoju, odporności, zdolności adaptacyjnych, niewinności i optymizmu. Niektóre sposoby na dalsze kultywowanie tego nałogu to:
@@ -536,11 +536,11 @@ Opanowanie ciała i umysłu obejmuje dbanie o zdrowie fizyczne i psychiczne. Fiz
 - Przyjęcie zdrowego stylu życia poprzez spożywanie pożywnych posiłków, regularne ćwiczenia i wystarczającą ilość snu.
 - Ćwicz uważność i medytację, aby zmniejszyć stres i poprawić jasność umysłu.
 - Angażuj się w działania, które przynoszą ci radość i spełnienie.
- 
+
 #### Kreatywność
 
 Jak ukierunkować swoją energię
- Wiąże się to z wykorzystaniem wyobraźni i kreatywności do wyrażania siebie poprzez sztukę, pisanie, muzykę lub inne formy wyrażania siebie. Niektóre sposoby kultywowania tego uzależnienia to:
+Wiąże się to z wykorzystaniem wyobraźni i kreatywności do wyrażania siebie poprzez sztukę, pisanie, muzykę lub inne formy wyrażania siebie. Niektóre sposoby kultywowania tego uzależnienia to:
 
 - Eksperymentuj z różnymi kanałami kreatywnej ekspresji i znajdź to, co działa dla Ciebie.
 - Każdego dnia zarezerwuj czas na kreatywne działania.
@@ -549,17 +549,17 @@ Jak ukierunkować swoją energię
 #### Pomaganie innym
 
 Pomaganie innym wiąże się z udzielaniem się na rzecz swojej społeczności i wywieraniem pozytywnego wpływu na otaczający nas świat. Może to obejmować wolontariat, darowizny na cele charytatywne lub po prostu bycie życzliwym i współczującym dla osób wokół ciebie. Pomagając innym, stworzysz poczucie celu, które zastąpi twoje uzależniające tendencje.
- 
+
 #### Zanurzenie w przyrodzie
 
 Zanurzenie w przyrodzie polega na spędzaniu czasu na łonie natury i kultywowaniu głębszej więzi ze światem przyrody. Może to obejmować piesze wędrówki, biwakowanie, ogrodnictwo lub po prostu spędzanie czasu na świeżym powietrzu. Zanurzając się w naturze, możesz znaleźć większe poczucie spokoju i harmonii w swoim życiu.
- 
+
 #### Bądź dla siebie miły
 
 Zerwanie z nałogiem jest trudnym procesem i wymaga cierpliwości i współczucia dla samego siebie. Stoicy wierzyli, że powinniśmy być dla siebie mili i traktować siebie z taką samą życzliwością i zrozumieniem, jakie zaoferowalibyśmy przyjacielowi.
 
 Uzależnienia są często podsycane przez wstyd i obwinianie samego siebie. Kiedy zauważysz pojawiające się samokrytyczne myśli, przypomnij sobie, że każdy popełnia błędy i że jesteś godny miłości i przebaczenia.
- 
+
 ## SZTUKA MANIFESTACJI
 
 ### 3 potężne prawa wszechświata
@@ -571,11 +571,11 @@ Prawo założeń: Cokolwiek zakładasz, że jest prawdą, staje się twoją rzec
 Prawo wibracji: Możesz przyciągnąć tylko to, z czym jesteś zestrojony wibracyjnie. Twoje myśli generują wibracje, twoje wibracje tworzą twoją energię, a twoja energia przyciąga ludzi i doświadczenia o tej samej częstotliwości. Aby zamanifestować pożądaną rzeczywistość, musisz podnieść swoje wibracje.
 
 1. Zidentyfikuj samoograniczające tożsamości, które przyjąłeś i zastąp je tożsamościami transcendentalnymi.\
-\
-Musisz usunąć ze swojego umysłu każdą negatywną, pesymistyczną i samoograniczającą myśl.
+   \
+   Musisz usunąć ze swojego umysłu każdą negatywną, pesymistyczną i samoograniczającą myśl.
 
 2. Zidentyfikuj szkodliwe nawyki, które utrzymują cię w niskim stanie wibracyjnym. Hazard, pornografia, przypadkowy seks, ostre picie i tym podobne. W głębi duszy znasz nawyki, które niszczą twoje życie. Zerwij z nimi na stałe!
-Podnoszenie wibracji
+   Podnoszenie wibracji
 
 3. Zmień swoje działania: Twoja obecna rzeczywistość jest odzwierciedleniem rzeczy, które robiłeś (lub których unikałeś) od początku roku. Podobnie, twoja przyszłość jest symulowana przez twój obecny styl życia. Przeanalizuj krytycznie swoją codzienną rutynę, czy jest ona zgodna z twoją pożądaną rzeczywistością?
 
@@ -588,7 +588,7 @@ Podnoszenie wibracji
 - Moje ciało jest zdrowe, a umysł spokojny.
 - Jestem wartościowy. Jestem godny wielkiego sukcesu. Jestem godzien prawdziwej miłości. Jestem godzien wielkiego bogactwa.
 - Możliwości płyną do mnie bez wysiłku. Moje życie jest pełne obfitości i dobrobytu.
- - W pełni kontroluję swoje działania i reakcje. Przepełnia mnie boska jasność, pewność i kreatywność.
+- W pełni kontroluję swoje działania i reakcje. Przepełnia mnie boska jasność, pewność i kreatywność.
 - Wszystko dzieje się dla mojego ostatecznego dobra. Jestem bosko chroniony i prowadzony.
 - Wybaczam sobie błędy popełnione w przeszłości. Uwalniam każdą stratę, gorycz, żal, zazdrość, lęki i niepewność, których nieświadomie się trzymam. Codziennie staję się spokojniejszy, mądrzejszy, bogatszy i bardziej połączony.
 
