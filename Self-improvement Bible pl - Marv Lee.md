@@ -326,7 +326,7 @@ Równowaga emocjonalna sprawi, że będziesz bardziej opanowany, spokojny i krea
 
 #### Zorganizuj swoją energię
 
-Twoja energia i siła woli to ograniczone zasoby. Skonfiguruj systemy automatyzujące powtarzalne zadania. Wyeliminuj pijawki energetyczne - bezmyślne scrollowanie, picie alkoholu lub pornografię.
+Twoja energia i siła woli to ograniczone zasoby. Skonfiguruj systemy automatyzujące powtarzalne zadania. Wyeliminuj pijawki energetyczne - bezmyślne scrollowanie, picie alkoholu lub pornografia.
 
 #### Zorganizuj swoje działania
 
