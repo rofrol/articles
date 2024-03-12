@@ -1,5 +1,6 @@
 - 2021-01-28 https://www.omaritani.com/blog/create-more-consume-less
   - https://news.ycombinator.com/item?id=39674619
+    - we must have more output (create/peoduce) than input (consuming information or products)
 
 # Twórz więcej niż konsumujesz, jeśli chcesz mniej się martwić i czuć się bardziej spełnionym
 
