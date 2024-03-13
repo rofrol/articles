@@ -1,7 +1,3 @@
-- 2021-01-28 https://www.omaritani.com/blog/create-more-consume-less
-  - https://news.ycombinator.com/item?id=39674619
-    - we must have more output (create/peoduce) than input (consuming information or products)
-
 # Create More Than You Consume if You Want to Worry Less and Feel More Fulfilled
 
 When the global pandemic was first announced, it was a bewildering feeling. It was scary, and yet, somehow thrilling-a novel experience, to say the least.
@@ -103,3 +99,29 @@ In other words, don’t judge each day by what you consume but by what you creat
 I won't judge each day by what I consume, but by what I create.
 
 I think you should too.
+
+## Links
+
+- 2021-01-28 https://www.omaritani.com/blog/create-more-consume-less
+
+we must have more output (create/peoduce) than input (consuming information or products)
+
+> Just imagine what it would look like if everyone on HN posted more than they read.
+
+Imagine that every active user on HN wrote 100 comments everyday and only submitted the 5 best.
+
+create != share
+
+Love this. Reminds me of Kurt Vonnegut's "make your soul grow" letter to high school kids - https://news.lettersofnote.com/p/make-your-soul-grow
+
+- https://news.ycombinator.com/item?id=39674619
+
+## Kurt Vonnnegut's "make your soul grow" letter to high school kids
+
+Practice any art, music, winging, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience **becomming**, to find out what's inside you, **to make your soul grow**.
+
+Seriously! I mean starting right now, do an and do it for the rest of your lives. Draw a funny or nice picture of Ms. Lockwood, and give it to her. Dance home after school, and sing in the shower and on and on. Make a face In your mashed potatoes. Pretend you're Count Dracula.
+
+Here's an assignment for tonight, and I hope Ms. Lockwood will flunk you if you don't do it: Write a ad One poem, about anything, but rhymed. No fair tennis without a net. Make It as good as you possibly can. But don't tell anybody what you're doing. Don't show it or recite it to anybody, not even your girlfriend or parents or whatever, or Me. Lockwood. OK?
+
+Tear it up into teeny-weeny pieces, and discard them into widely separated trash recepticals. You will find that you have already been gloriously rewarded for your poem. You have experienced becoming, learned a lot more about what's inside you, and you have made your soul grow.
