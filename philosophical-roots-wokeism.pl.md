@@ -112,7 +112,7 @@ Wreszcie Katolicka Nauka Społeczna zdecydowanie nie utrzymuje w sposób quasi-w
 
 Jednak wartości często uważane dziś za absolutne – takie jak różnorodność, równość i włączenie społeczne – są wartościami secundum quid, jak powiedzieliby średniowiecze. Są to wartości zależne od okoliczności, wartości w pewnym stopniu. Nie są one absolutne. Niezależnie od tego, jak "inkluzywny" może być uniwersytet, studenci są wykluczani z procesu rekrutacji w celu włączenia ich do tej społeczności. Rzecz w tym, że inkluzywność jest dobrą rzeczą secundum quid – i to samo dotyczy równości i różnorodności. Te trzy wartości są jak trójka, która zrodziła się z rewolucji francuskiej: liberté, égalité, fraternité. To także były wartości secundum quid. Kiedy próbujesz uczynić wartości drugorzędne wartościami pierwotnymi, prowadzisz swój naród krótką drogą do chaosu.
 
-Jeśli chcemy zająć się obudzeniem w poważny intelektualny sposób – a pamiętajcie, że teoretycy ruchu nie chcą, abyście to robili, lecz raczej chcą, aby dyskusja opierała się na podstawach emocjonalnych – ważne jest, abyśmy zrozumieli nie tylko, gdzie skąd pochodzi, ale także tego, jak mocno sprzeciwia się temu katolicka nauka społeczna.
+Jeśli chcemy zająć się obudzeniem w poważny intelektualny sposób – a pamiętajcie, że teoretycy ruchu nie chcą, abyście to robili, lecz raczej chcą, aby dyskusja opierała się na podstawach emocjonalnych – ważne jest, abyśmy zrozumieli nie tylko, skąd pochodzi, ale także tego, jak mocno sprzeciwia się temu katolicka nauka społeczna.
 
 ---
 
