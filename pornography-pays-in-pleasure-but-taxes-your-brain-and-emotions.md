@@ -40,7 +40,7 @@ For example, opioid users experience intense calmness, euphoria, pain relief, an
 
 The emotional facial expressions while watching the 10-minute video revealed even more telling patterns. Frequent porn watchers displayed heightened facial expressions of pleasure and happiness, similar to the euphoria reported by drug users.
 
-![](pornography-pays-in-pleasure-but-taxes-your-brain-and-emotions.webp)
+![](id5886818-porn-addiction-infographic.webp)
 
 However, they also displayed significantly more anger and sadness than infrequent watchers, suggesting greater emotional fluctuations within the frequent group. According to the researchers, these emotional ups and downs may stem from conflicting feelings of arousal, withdrawal-like distress, and impaired emotional control in the brain.
 
