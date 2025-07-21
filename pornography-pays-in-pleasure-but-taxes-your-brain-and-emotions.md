@@ -8,8 +8,7 @@ By Arsh Sarao and Makai Allbert
 
 7/17/2025
 
-Updated:
-7/20/2025
+Updated: 7/20/2025
 
 What begins as a choice to watch pornography can evolve into a neurological and physical battle, with new research showing that frequent viewing rewires the brain in ways that mirror drug addiction.
 
@@ -23,7 +22,7 @@ A 10-minute pornography video was selected for the experiment. Before and after 
 
 The findings revealed that frequent pornography consumption creates three distinct changes in how our brains and bodies respond.
 
-1. Brain Reward Circuits Get Hijacked
+### 1. Brain Reward Circuits Get Hijacked
 
 When the frequent porn users watched the video, their brain patterns showed features similar to people [addicted to drugs](https://www.nature.com/articles/nrn3119) such as cocaine or opioids, according to the researchers.
 
@@ -32,7 +31,7 @@ Such changes may lead the viewer to continue watching pornography, resulting in 
 
 Further, regular exposure to pornography leads to intense and sustained dopamine release, which in turn builds tolerance and desensitization. What used to arouse someone may no longer be sufficient, causing the person to seek more extreme content to experience the same level of feeling.
 
-2. Emotional Responses Mirror Drug Use
+### 2. Emotional Responses Mirror Drug Use
 
 Beyond neurological changes, the study also found that the emotional reactions in porn users resembled those observed in drug addiction.
 
@@ -48,7 +47,7 @@ Most concerning, frequent porn watchers were less surprised and had more numb ex
 
 In contrast, the casual porn watchers showed more expressions of disgust and fear, which the researchers suggest may indicate they were less immersed and less emotionally blunted. This pattern implies they retained a more typical defensive reaction to explicit content.
 
-3. Clouded Thinking
+### 3. Clouded Thinking
 
 Cognitive function is also [significantly affected](https://www.theepochtimes.com/health/men-are-losing-the-battle-against-their-own-pleasure-5760537) by pornography use. The study measured participants’ accuracy and reaction times in completing a color and word test before and after the viewing session and found that chronic porn users had a greater decline in both.
 
