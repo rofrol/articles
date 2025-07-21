@@ -86,3 +86,9 @@ Losowe badanie kliniczne z 2016 roku wykazało znakomite efekty — uczestnicy z
 Dodatkowo, integracja podejść holistycznych, takich jak medytacja, pomaga zmniejszyć negatywne emocje i zwiększyć samoświadomość.
 
 Ostatecznie przezwyciężanie pragnień oglądania pornografii może nie polegać na samym zakazie oglądania. Kluczem jest „patrzenie poza siebie i dążenie do czegoś większego”, podsumował Foubert.
+
+## Terapia Akceptacji i Zaangażowania (ACT):
+
+- Nie walcz z niechcianymi impulsami (np. chęcią oglądania pornografii), tylko je zauważaj i przyjmuj jako przejściowe myśli lub uczucia, które same z czasem mijają.
+- ⁠Nie działaj automatycznie pod wpływem tych impulsów, czyli świadomie powstrzymuj się od realizowania ich, nawet jeśli są silne i nieprzyjemne.
+- ⁠Skup się na tym, co naprawdę ważne — wyznacz sobie cele i wartości życiowe, które dają sens i satysfakcję, i konsekwentnie do nich dąż, mimo pojawiających się trudności czy pokus.
