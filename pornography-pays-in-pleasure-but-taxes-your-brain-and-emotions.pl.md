@@ -43,7 +43,7 @@ Jednak również wykazywali dużo więcej złości i smutku niż osoby oglądaj�
 
 Najbardziej niepokojące jest to, że często oglądający wykazywali mniejszą zdolność do zaskoczenia i bardziej obojętną mimikę, podobną do intensywnego spokoju wywoływanego przez opioidy. Ta grupa także miała wyższy poziom lęku i depresji.
 
-Dla kontrastu, osoby okazjonalnie oglądające pornografię pokazywały więcej wyrazów obrzydzenia i strachu, co może wskazywać, że nie były tak bardzo zanurzone w treści i nie były tak emocjonalnie znieczulone. Wzorzec ten sugeruje, że zachowały bardziej typową reakcję obronną na treści eksplicytne.
+Dla kontrastu, osoby okazjonalnie oglądające pornografię pokazywały więcej wyrazów obrzydzenia i strachu, co może wskazywać, że nie były tak bardzo zanurzone w treści i nie były tak emocjonalnie znieczulone. Wzorzec ten sugeruje, że zachowały bardziej typową reakcję obronną na treści dosadne.
 
 ### 3. Zaburzenia myślenia
 
