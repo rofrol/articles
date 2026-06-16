@@ -1,7 +1,3 @@
-Oto naturalne, płynne tłumaczenie tekstu na język polski (z pominięciem znaczników technicznych [muzyka]/[śmiech] oraz z wygładzeniem powtórzeń wynikających z mówionego charakteru wypowiedzi):
-
----
-
 ## Ponad 20 lat terapii w pigułce
 
 Podsumowanie w ciągu najbliższych 10–15 minut.
