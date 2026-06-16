@@ -69,8 +69,6 @@ Uczucia to nie fakty, ale nadal warto ich słuchać. Mamy naturalną tendencję 
 
 Zasadniczo uczucia to po prostu dane, a nie rozkazy. Sygnalizują ci, że dzieje się coś, na co warto zwrócić uwagę lub co warto zmienić, ale nie musisz ślepo za nimi iść. Twoim zadaniem jest je przeanalizować, a decyzja, co z nimi zrobisz, należy wyłącznie do ciebie. Osobiście traktuję swoje emocje jak sekcję komentarzy na YouTube – dobrze jest tam zajrzeć i zobaczyć, co się dzieje, ale nie biorę tego śmiertelnie poważnie.
 
-(W tym miejscu autor zamieszcza segment sponsorowany przez aplikację Brain.fm, opartą na neuronauce muzykę ułatwiającą skupienie i zmianę fal mózgowych).
-
 ---
 
 ### Lekcja 7: Pozwól umrzeć starym marzeniom
