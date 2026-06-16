@@ -1,8 +1,11 @@
 ## Ponad 20 lat terapii w pigułce
 
-Podsumowanie w ciągu najbliższych 10–15 minut.
 
 Nazywam się Mark Manson. Jestem autorem bestsellerów numer jeden „New York Timesa” i przez ostatnie 15 lat uczyłem miliony ludzi praktycznej psychologii, która pomaga im odmienić swoje życie.
+
+---
+
+### Lekcja 1: Nikt nie idzie ci na ratunek
 
 Kiedy idziesz na terapię – niezależnie od tego, z czym się mierzysz – pierwszą i najważniejszą lekcją, jaką musisz sobie wbić do głowy, jest to, że **nikt nie idzie ci na ratunek**. Co więcej, sama fantazja o byciu uratowanym jest rzeczą, która najbardziej cię blokuje. To sposób na zrzucenie z siebie odpowiedzialności, przy jednoczesnym poczuciu szlachetności i usprawiedliwienia dla własnego cierpienia.
 
