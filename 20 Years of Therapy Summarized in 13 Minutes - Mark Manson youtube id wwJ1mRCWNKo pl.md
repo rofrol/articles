@@ -116,3 +116,5 @@ Mamy tendencję do inwestowania w ilość relacji, ponieważ prawdziwa bliskoś�
 Ale na łożu śmierci nie będziesz myśleć o liczbie obserwujących. Nie będziesz myśleć o kontaktach biznesowych ani o ludziach, którzy polubili twój post. Prawdopodobnie pomyślisz o pięciu lub sześciu twarzach.
 
 Zacznij więc dbać o nie już teraz.
+
+https://www.youtube.com/watch?v=wwJ1mRCWNKo
